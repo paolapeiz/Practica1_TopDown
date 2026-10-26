@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\msi\\Documents\\Unreal Projects\\Practica_1_TopDown\\Source\\Practica_1_TopDown\\Practica_1_TopDown.Build.cs",
+		"C:\\Users\\msi\\Documents\\Unreal Projects\\Practica_1_TopDown\\Source\\Practica_1_TopDown.Target.cs",
+		"C:\\Users\\msi\\Documents\\Unreal Projects\\Practica_1_TopDown\\Source\\Practica_1_TopDownEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

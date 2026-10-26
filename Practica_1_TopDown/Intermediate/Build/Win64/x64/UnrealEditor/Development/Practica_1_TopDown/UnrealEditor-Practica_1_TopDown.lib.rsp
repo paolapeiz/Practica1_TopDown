@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Practica_1_TopDown.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/Practica_1_TopDownEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/Module.Practica_1_TopDown.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/Practica_1_TopDown.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/Practica_1_TopDownCharacter.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/Practica_1_TopDownGameMode.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/Practica_1_TopDownPlayerController.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/StrategyGameMode.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/StrategyPawn.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/StrategyPlayerController.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/StrategyUnit.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/StrategyHUD.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/StrategyUI.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickCharacter.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickGameMode.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickPlayerController.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickAIController.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickNPC.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickNPCDestruction.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickSpawner.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickStateTreeUtility.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickAoEAttack.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickPickup.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickProjectile.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/TwinStickUI.cpp.obj"
+"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/Default.rc2.res"
+/OUT:"C:/Users/msi/Documents/Unreal Projects/Practica_1_TopDown/Intermediate/Build/Win64/x64/UnrealEditor/Development/Practica_1_TopDown/UnrealEditor-Practica_1_TopDown.lib"

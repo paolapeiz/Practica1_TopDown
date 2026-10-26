@@ -1,0 +1,78 @@
+[23900:6004:1024/162052.391:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23900:2928:1024/162052.421:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23900:6004:1024/162052.439:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10332:15772:1024/162058.695:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F001760EBFA2FD099886BEC034A12554 will be ignored
+[26288:24716:1024/201959.855:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/201959.855:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:6004:1024/202034.372:ERROR:device_event_log_impl.cc(196)] [20:20:34.346] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[23900:27128:1024/202206.452:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202206.457:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202206.554:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202206.555:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202206.623:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202206.689:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202206.706:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202207.981:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202207.987:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202208.123:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:21680:1024/202208.123:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202213.130:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:24912:1024/202213.133:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202223.145:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202223.165:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:21680:1024/202226.312:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:24716:1024/202226.315:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202226.405:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202226.406:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202227.161:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202227.161:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202227.243:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202227.244:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:8420:1024/202231.847:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:21680:1024/202843.414:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202843.422:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:24716:1024/202843.691:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202843.695:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:21680:1024/202843.848:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202843.855:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202844.094:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:10604:1024/202844.097:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:24716:1024/202844.342:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:21680:1024/202844.345:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:27128:1024/202849.367:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26288:21932:1024/202849.374:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23900:8420:1024/202856.460:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/204258.936:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:6004:1024/204331.633:ERROR:device_event_log_impl.cc(196)] [20:43:31.544] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[23900:8420:1024/205315.436:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/205626.811:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/210558.512:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/211309.594:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/211515.577:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/212727.345:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/213053.362:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:8420:1024/222448.739:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23900:6004:1024/223057.069:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223057.071:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1073807364
+[23900:6004:1024/223057.071:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[23900:6004:1024/223057.399:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223057.400:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223057.400:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[23900:6004:1024/223057.732:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223057.732:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223057.732:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
+[23900:6004:1024/223058.066:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223058.066:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223058.066:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 4 time(s)
+[23900:6004:1024/223058.399:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223058.399:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223058.399:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 5 time(s)
+[23900:6004:1024/223058.732:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223058.733:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223058.733:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 6 time(s)
+[23900:6004:1024/223059.066:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223059.066:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223059.066:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 7 time(s)
+[23900:6004:1024/223059.399:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23900:6004:1024/223059.400:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[23900:6004:1024/223059.400:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 8 time(s)

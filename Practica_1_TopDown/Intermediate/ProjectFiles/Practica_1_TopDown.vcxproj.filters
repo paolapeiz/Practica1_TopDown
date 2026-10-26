@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Practica_1_TopDown.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Practica_1_TopDown.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Practica_1_TopDownEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\Practica_1_TopDown">
+      <UniqueIdentifier>{34FAB2D1-56B2-3F0B-819E-11F83CAED0A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDown.Build.cs">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDown.cpp">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDown.h">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDownCharacter.cpp">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDownCharacter.h">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDownGameMode.cpp">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDownGameMode.h">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDownPlayerController.cpp">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Practica_1_TopDownPlayerController.h">
+      <Filter>Source\Practica_1_TopDown</Filter>
+    </ClInclude>
+    <Filter Include="Source\Practica_1_TopDown\Variant_Strategy">
+      <UniqueIdentifier>{3CA1DD6C-0F89-3548-87EB-5B6BF92DAFA7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\Practica_1_TopDown\Variant_Strategy\UI">
+      <UniqueIdentifier>{814D34B9-047A-3C94-A9E2-24DC45CB8974}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\UI\StrategyHUD.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\UI\StrategyHUD.h">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\UI\StrategyUI.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_Strategy\UI\StrategyUI.h">
+      <Filter>Source\Practica_1_TopDown\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Practica_1_TopDown\Variant_TwinStick">
+      <UniqueIdentifier>{5E8C67E1-108C-3CCF-BCD2-69E9EF40C661}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Practica_1_TopDown\Variant_TwinStick\AI">
+      <UniqueIdentifier>{12D1323C-34FD-3D02-9EC9-B58F8B66B91B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickNPCDestruction.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickNPCDestruction.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickSpawner.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickSpawner.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Practica_1_TopDown\Variant_TwinStick\Gameplay">
+      <UniqueIdentifier>{7C429831-5F52-3F45-80A4-49E0E2DAD1C4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\Gameplay\TwinStickAoEAttack.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\Gameplay\TwinStickAoEAttack.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\Gameplay\TwinStickPickup.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\Gameplay\TwinStickPickup.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\Gameplay\TwinStickProjectile.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\Gameplay\TwinStickProjectile.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\Practica_1_TopDown\Variant_TwinStick\UI">
+      <UniqueIdentifier>{C4C69D29-9ECE-3579-874C-A784A9888CFB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\UI\TwinStickUI.cpp">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica_1_TopDown\Variant_TwinStick\UI\TwinStickUI.h">
+      <Filter>Source\Practica_1_TopDown\Variant_TwinStick\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

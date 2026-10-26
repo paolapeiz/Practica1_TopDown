@@ -1,0 +1,14 @@
+[19388:24016:1021/090251.305:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19388:10076:1021/090251.392:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19388:24016:1021/090251.451:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19140:21272:1021/090300.850:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E359A9C2226A97B0A97E31A58DBA1B23 will be ignored
+[9316:20828:1021/124206.176:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-45DCC225BADD474CE9FC46850DA19013 will be ignored
+[19388:24016:1021/153051.318:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[19388:24016:1021/153051.384:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1073807364
+[19388:24016:1021/153051.385:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[19388:24016:1021/153051.393:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[19388:24016:1021/153051.411:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[19388:24016:1021/153051.411:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[19388:24016:1021/153051.420:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[19388:24016:1021/153051.420:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
+[19388:24016:1021/153051.642:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

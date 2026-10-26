@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\msi\\documents\\unreal projects\\practica_1_topdown\\source\\practica_1_topdown\\practica_1_topdowngamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\msi\\documents\\unreal projects\\practica_1_topdown\\intermediate\\build\\win64\\x64\\practica_1_topdowneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\msi\\documents\\unreal projects\\practica_1_topdown\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\practica_1_topdown\\definitions.practica_1_topdown.h",
+            "c:\\users\\msi\\documents\\unreal projects\\practica_1_topdown\\source\\practica_1_topdown\\practica_1_topdowngamemode.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\msi\\documents\\unreal projects\\practica_1_topdown\\intermediate\\build\\win64\\unrealeditor\\inc\\practica_1_topdown\\uht\\practica_1_topdowngamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

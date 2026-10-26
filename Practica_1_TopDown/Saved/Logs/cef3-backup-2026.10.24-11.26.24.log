@@ -1,0 +1,22 @@
+[12924:17576:1024/092321.722:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12924:15484:1024/092321.791:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12924:17576:1024/092321.852:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7296:23252:1024/092332.329:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9FBA379A349A8356297FD006CA95B3B1 will be ignored
+[12924:15040:1024/092759.269:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12924:15040:1024/093252.323:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1324:8836:1024/093337.825:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-672B88E75A0F753CC08DB3A423B0950B will be ignored
+[12924:15040:1024/093419.380:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,10]
+[12924:17576:1024/093419.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,10]
+[12924:17576:1024/093419.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,10]
+[12924:17576:1024/093419.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,10]
+[12924:17576:1024/093419.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,10]
+[12924:17576:1024/093419.470:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,13]
+[12924:17576:1024/093419.470:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,13]
+[12924:17576:1024/093419.470:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,13]
+[12924:17576:1024/093419.470:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,13]
+[12924:17576:1024/093421.201:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[12924:17576:1024/093421.201:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[12924:15040:1024/095115.439:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12924:15040:1024/100104.270:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12924:15040:1024/101244.808:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12924:17576:1024/132624.264:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
